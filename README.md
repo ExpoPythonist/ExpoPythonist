@@ -7,7 +7,7 @@ applications. Proficientin multiple programming languages, software development 
 Strong problem-solving skills and ability to work effectively in a team-based environment.
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/%F0%9F%91%89%20RESUME-F35616?style=flat-square)](https://drive.google.com/file/d/1ZV5QWV4WxAoovllJaqM0SmwmDKE7nW0O/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/%F0%9F%91%89%20RESUME-F35616?style=flat-square)](https://drive.google.com/file/d/1btukOnS4eWdsJc7SSDcIk6GO3Q9mmq2Z/view?usp=sharing)
 
 </div>
 
