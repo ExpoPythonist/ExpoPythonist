@@ -1,4 +1,6 @@
-<img src="assets/Header.PNG" height="350" width="100%" alt="Philosophy at the center of everything.">
+<a href="[link_to_destination](https://inza-ashique.netlify.app/)">
+    <img src="assets/Header.PNG" height="350" width="100%" alt="Header Image not loading">
+</a>
 
 <h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
 
