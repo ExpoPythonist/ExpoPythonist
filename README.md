@@ -1,4 +1,4 @@
-<img src="assets/Header.PNG" height="300" alt="Philosophy at the center of everything.">
+<img src="assets/Header.PNG" height="300" width="100%" alt="Philosophy at the center of everything.">
 
 <h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
 
