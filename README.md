@@ -15,7 +15,7 @@ Strong problem-solving skills and ability to work effectively in a team-based en
 <p align="center">
 <a href="https://linkedin.com/in/ahique inzam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahique inzam" height="30" width="40" /></a>
 <a href="https://fb.com/inzamam.ashique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="inzamam.ashique" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/inzamamul haque ashique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inzamamul haque ashique" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCc08vmdlupKI9yT7dctfxlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="inzamamul haque ashique" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/inzam_ashique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="inzam_ashique" height="30" width="40" /></a>
 </p>
 
