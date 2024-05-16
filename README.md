@@ -1,10 +1,8 @@
 <img src="assets/Header.PNG" height="350" width="100%" alt="Header Image not loading">
 
-<h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
+<h1 align="center">😎 Hi! I'm Aiub Ali</h1>
 
-Highly skilled and detail-oriented software engineer with 8+ years of experience designing, developing, and deploying enterprise-level
-applications. Proficientin multiple programming languages, software development methodologies, and database management systems.
-Strong problem-solving skills and ability to work effectively in a team-based environment.
+I'm like a tech-savvy superhero, mastering Python both as a student and a junior developer at EXPOIT. Juggling textbooks and real-world coding challenges is my daily adventure. The thrill of it all keeps me charged up for the exciting tech future ahead! 💻
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/%F0%9F%91%89%20RESUME-F35616?style=flat-square)](https://drive.google.com/file/d/1_FT9TK8cHgZwIfVsl2WOjTqIiN-fB277/view?usp=sharing)
