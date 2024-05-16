@@ -1,8 +1,14 @@
 <img src="assets/Header.PNG" height="350" width="100%" alt="Header Image not loading">
 
-<h1 align="center">😎 Hi! I'm Aiub Ali</h1>
+<h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
 
-I'm like a tech-savvy superhero, mastering Python both as a student and a junior developer at EXPOIT. Juggling textbooks and real-world coding challenges is my daily adventure. The thrill of it all keeps me charged up for the exciting tech future ahead! 💻
+I am a passionate coder. I eat, sleep and dream how to code. I have debugged my own logic in my sleep. Then literally woke up to resolve the issue.
+
+All I ever want to do is master my coding craft. I am constantly looking for ways to improve my coding/efficiency and experimenting with new technology.
+
+I am a self-thinker -- A project can consist of a spreadsheet outline, and I will deliver a quality application.
+
+I collaborate well with a team; I am strong minded but open to constructive criticism. Some of my best projects were in collaboration with managers. While they couldn't code, they had a great vision and I enjoyed becoming their visionary and bringing to life their ideas.
 <div align="center">
 
 [![Resume](https://img.shields.io/badge/%F0%9F%91%89%20RESUME-F35616?style=flat-square)](https://drive.google.com/file/d/1_FT9TK8cHgZwIfVsl2WOjTqIiN-fB277/view?usp=sharing)
