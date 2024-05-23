@@ -3,7 +3,7 @@
 <h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
 
 Highly skilled and detail-oriented software engineer with 8+ years of experience designing, developing, and deploying enterprise-level
-applications. Proficientin multiple programming languages, software development methodologies, and database management systems.
+applications. Proficientint multiple programming languages, software development methodologies, and database management systems.
 Strong problem-solving skills and ability to work effectively in a team-based environment.
 <div align="center">
 
