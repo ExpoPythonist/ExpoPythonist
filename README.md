@@ -32,8 +32,6 @@ Strong problem-solving skills and ability to work effectively in a team-based en
 
 <br/>
 
-<details>
-  <summary> My 💻 Tech Stack </summary>
   
 <div align="center">
 
