@@ -1,4 +1,4 @@
-<img src="assets/Header.PNG" height="350" width="100%" alt="Header Image not loading">
+<img src="assets/Header_update.PNG" height="350" width="100%" alt="Header Image not loading">
 
 <h1 align="center">😎 Hi! I'm Inzamamul Haque Ashique</h1>
 
